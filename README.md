@@ -29,3 +29,6 @@ NOTE: This Project uses modified code from the repository: https://github.com/Al
   OpenHardwareMonitor 2019
 </pre>
 
+You can Download the PCB ZIP file, this is the Gerber Data.
+If you want to do the connections on breadboard, you can see the fritzing project.
+The PCMonitor_V4 is the new and supported code.
