@@ -1,7 +1,7 @@
 # PCmonitor-V3
 The third version of PC Perfomance Monitor
 
-#Things Needed (Hardware):
+**Things Needed (Hardware):**
 
 <pre>
     1x WS2812B LED STRIP 
@@ -20,7 +20,7 @@ The third version of PC Perfomance Monitor
   Along with this, you need jumper wires if you're not using PCB. 
 </pre>
 
-#Things Needed (Software):
+**Things Needed (Software):**
 
 <pre>
   Arduino IDE (To upload code)
