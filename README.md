@@ -1,6 +1,8 @@
 # PCmonitor-V3
 The third version of PC Perfomance Monitor
 
+NOTE: This Project uses modified code from the repository: https://github.com/AlexGyver/PCdisplay
+
 **Things Needed (Hardware):**
 
 <pre>
